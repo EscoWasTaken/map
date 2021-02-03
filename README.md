@@ -1,3 +1,4 @@
 # map
 sasadsafasfasf
-![guaynaabichy](https://imgur.com/6pMqZm8)
+
+![guaynaabichy](images/guaynaa.png)
